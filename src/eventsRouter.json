@@ -1,0 +1,3 @@
+{
+  "storyUpdateHandler": ["story:create", "story:update"]
+}
