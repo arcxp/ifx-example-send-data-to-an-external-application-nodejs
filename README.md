@@ -8,12 +8,6 @@ Reiterated from license above, all code in this example is free to use, and as s
 
 _Note there may be values or logic that will change depending on your individual use case._
 
-# Prerequisites
-
-1.  You have  [created a Node integration](https://docs.arcxp.com/alc?id=kb_article_view&sys_kb_id=0e7ee80447ee5510d0cba8b5536d43f8 "created a Node integration")  and it’s cloned to your local machine ([Getting Integrations Running Locally in Node (Write, Build, Run!)](https://docs.arcxp.com/alc?id=kb_article_view&sys_kb_id=36f4402847292110a87626c2846d439b "Getting Integrations Running Locally in Node (Write, Build, Run!)"))
-2.  You have your  [preferred HTTP client](https://docs.arcxp.com/alc?id=kb_article_view&sys_kb_id=acef06704761a110a87626c2846d4338&spa=1 "preferred HTTP client")  (this tutorial will use axios)
-3.  You have included axios as a dependency in your  `package.json`  file
-
 # Quick Overview
 
 1.  Set up request in  [Pipedream](https://pipedream.com/)
