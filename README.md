@@ -6,7 +6,10 @@ Reiterated from license above, all code in this example is free to use, and as s
 
 -----
 
-_Note there may be values or logic that will change depending on your individual use case._
+# Description
+In this example we will listen for the `story:create` and `story:update` events so that we can send a formatted payload containing some ANS fields to an external service. Pipedream is used here, but can be replaced with any external service. Keep in mind with example code you will likely always have to make *some* changes.
+
+This example code can also be used as a starting point for other behaviors. With some modification, you can format data from any ANS field(s) to send a custom payload to other external services.
 
 # Quick Overview
 
